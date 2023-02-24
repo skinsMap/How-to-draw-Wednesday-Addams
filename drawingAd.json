@@ -4,26 +4,26 @@
     "AdNetwork"              : "admob",
     "IntervalClick"          : 1,
 
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_OpenAd"           : "ca-app-pub-3940256099942544/3419835294",
+    "AdMob_Banner"           : "",
+    "AdMob_InterstitialAd"   : "",
+    "AdMob_RewardAd"         : "",
+    "AdMob_OpenAd"           : "",
     "OpenAd_status"          : true ,
 
-    "Facebook_Banner"        : "871738060667001_871738510666956",
-    "Facebook_InterstitialAd": "871738060667001_871738604000280",
-    "Facebook_RewardAd"      : "ca-app-pub-3940256099942544/1033173712",
+    "Facebook_Banner"        : "",
+    "Facebook_InterstitialAd": "",
+    "Facebook_RewardAd"      : "",
 
-    "Applovin_Banner"        : "4f657f6640db2eeb",
-    "Applovin_InterstitialAd": "362e843f5198f772",
-    "Applovin_RewardAd"      : "362e843f5198f772",
+    "Applovin_Banner"        : "",
+    "Applovin_InterstitialAd": "",
+    "Applovin_RewardAd"      : "",
 
-    "Unity_GameID"           : "5037733",
-    "Unity_Banner"           : "Banner_Android",
-    "Unity_InterstitialAd"   : "Interstitial_Android",
-    "Unity_RewardAd"         : "video",
+    "Unity_GameID"           : "",
+    "Unity_Banner"           : "",
+    "Unity_InterstitialAd"   : "",
+    "Unity_RewardAd"         : "",
 
-    "IronSourceKey"          : "178437e45"
+    "IronSourceKey"          : ""
   },
   
   "Category": [
