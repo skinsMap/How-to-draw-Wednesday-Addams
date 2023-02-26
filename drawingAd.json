@@ -23,7 +23,7 @@
     "Unity_InterstitialAd"   : "",
     "Unity_RewardAd"         : "",
 
-    "IronSourceKey"          : "178437e45"
+    "IronSourceKey"          : ""
   },
   
   "Category": [
@@ -42,23 +42,23 @@
       ]
     },
     {
-      "category_title": "Poses",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
+      "category_title": "",
+      "category_preview": "",
       "category_list": [
         {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
+          "name": "OnePiece",
+          "cover": ""
         },
         {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "",
+          "cover": ""
         }
       ]
     }
   ],
-  "One Piece": [
+  "Wednesday": [
     {
-      "title": "San Jy",
+      "title": "Xavier",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_icon.png",
       "locked": false,
       "steps": [
