@@ -28,11 +28,11 @@
   
   "Category": [
     {
-      "category_title": "Anime",
+      "category_title": "Wednesday",
       "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
       "category_list": [
         {
-          "name": "One Piece",
+          "name": "Wednesday",
           "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
         }
       ]
