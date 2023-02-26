@@ -42,7 +42,7 @@
     {
       "title": "Xavier",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_1.png"
@@ -51,9 +51,8 @@
     {
       "title": "Wednesday Cool",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
-        
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_26.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_1.png"
       ]
@@ -61,9 +60,8 @@
     {
       "title": "Wedenesday",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wedenesday%20Drawing%20Step%20by%20Step/wedenesday_drawing_step_by_step_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
-       
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wedenesday%20Drawing%20Step%20by%20Step/wedenesday_drawing_step_by_step_29.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_1.png"
       ]
