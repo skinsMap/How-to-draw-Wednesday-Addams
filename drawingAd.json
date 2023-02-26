@@ -122,6 +122,7 @@
     {
       "title": "Naruto",
       "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "locked": false,
       "steps": [
         "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
         "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
@@ -141,6 +142,7 @@
     {
       "title": "Kakashi Hatake",
       "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "locked": false,
       "steps": [
         "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
         "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
