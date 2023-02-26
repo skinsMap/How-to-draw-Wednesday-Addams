@@ -50,16 +50,16 @@
           "cover": ""
         },
         {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "",
+          "cover": ""
         }
       ]
     }
   ],
   "One Piece": [
     {
-      "title": "San Jy",
-      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "title": "Xavier",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_icon.png",
       "locked": false,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_1.png",
@@ -93,17 +93,17 @@
       ]
     },
     {
-      "title": "Monkey D.Luffy",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
+      "title": "",
+      "preview": "",
       "locked": true,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "",
+        ""
       ]
     },
     {
-      "title": "Xavier",
-      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_icon.png",
+      "title": "",
+      "preview": "",
       "locked": false,
       "steps": [
         "",
@@ -113,9 +113,9 @@
       ]
     }
   ],
-  "Naruto": [
+  "": [
     {
-      "title": "Naruto",
+      "title": "",
       "preview": "",
       "steps": [
         "nar_1",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "title": "Kakashi Hatake",
+      "title": "",
       "preview": "",
       "steps": [
         "kak_1",
